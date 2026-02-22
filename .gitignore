@@ -1,0 +1,22 @@
+# General
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+
+*.png
+
+
+# Data
+data/
+data.zip
+
+# Outputs
+figs/
+mouse_fitting_result/
+
+# IDE
+.vscode/
+.idea/
+
+mouse_fitting_results/
