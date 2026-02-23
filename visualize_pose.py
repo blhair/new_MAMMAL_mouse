@@ -125,7 +125,7 @@ def visualize_pose(input_val, output_file):
     ax.set_xlabel('X')
     ax.set_ylabel('Y')
     ax.set_zlabel('Z')
-    ax.set_title(f'Mouse Pose {pose_idx}')
+    ax.set_title(f'Mouse Pose {input_val}')
     
     # Equal aspect ratio hack for 3D
     # Get limits
